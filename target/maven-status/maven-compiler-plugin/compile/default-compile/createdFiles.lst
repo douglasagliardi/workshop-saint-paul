@@ -1,0 +1,10 @@
+org\bbdn\rest\Token.class
+org\bbdn\course\CourseHandler.class
+org\bbdn\rest\RestRequest$1.class
+org\bbdn\rest\Authorizer.class
+org\bbdn\term\TermHandler.class
+org\bbdn\rest\RestRequest.class
+org\bbdn\rest\RestConstants.class
+org\bbdn\user\UserHandler.class
+org\bbdn\rest\RestController.class
+org\bbdn\rest\RestHandler.class
